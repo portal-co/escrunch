@@ -1,13 +1,14 @@
 # escrunch
 
 ## Description
-Project escrunch
+"ESM module-to-module bundler". A tool to bundle ECMAScript modules, utilizing SWC.
 
 ## Goals
-- [ ] Add project goals
+- [ ] Bundle ESM modules
+- [ ] Optimize/minify output via SWC
 
 ## Progress
-- [ ] Initial setup
+- [ ] Workspace initialized
 
 ---
 *AI assisted*

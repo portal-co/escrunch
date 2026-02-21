@@ -1,0 +1,9 @@
+[package]
+name = "escrunch"
+edition = "2024"
+license.workspace = true
+description.workspace = true
+repository.workspace = true
+version.workspace = true
+
+[dependencies]
